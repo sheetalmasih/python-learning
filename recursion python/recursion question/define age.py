@@ -1,0 +1,5 @@
+d_o_b=input("enter your age:")
+present_year=input("enter present year:")
+new_year_age=input("enter a number:")
+print("your now age")
+print(int(new_year_age)-int(present_year)+int(d_o_b))
